@@ -152,7 +152,7 @@ body {
 
 /*Buttons*/
 
-.button {
+.button, .button a {
     background-color: #008CBA; /* Blue */
     border: none;
     border-radius: 8px;
