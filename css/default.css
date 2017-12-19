@@ -147,3 +147,19 @@ body {
 /*Gravatar - User Profiles*/
 
 
+/* =Common Elements
+-------------------------------------------------------- */
+
+/*Buttons*/
+
+.button {
+    background-color: #008CBA; /* Blue */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
